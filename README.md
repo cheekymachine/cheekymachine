@@ -1,4 +1,4 @@
-👋 Hi, I’m Neelesh Bhalla (@neelblabla)
+👋 Hi, I’m Neelesh Bhalla
 
 Following is a brief summary of my background:
 - IIT Roorkee and Frankfurt-SFM alumnus
