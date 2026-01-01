@@ -5,9 +5,8 @@ Following is a brief summary of my background:
 - Have worked in strategic positions with a few early stage Indian startups managing product and operations after a career start with a French oilfield MNC
 - Currently pursuing my fostered passion for Deep Learning and Neural Networks
 
-linkedin - https://www.linkedin.com/in/neeleshbhalla/
-twitter - https://twitter.com/neelblabla
-huggingface - https://huggingface.co/neelblabla
+X - https://x.com/cheekymachine
+Linkedin - https://www.linkedin.com/in/neeleshbhalla/
 
 <!---
 neelblabla/neelblabla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
